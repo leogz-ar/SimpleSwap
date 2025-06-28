@@ -6,7 +6,7 @@ This project replicates a basic Uniswap-like exchange with liquidity provision a
 ## 📁 Contracts
 
 - `SimpleSwap.sol`: Main contract to manage swaps and liquidity
-- `TokenMate.sol` / `TokenBizcochito.sol`: Test ERC-20 tokens
+- `TokenA.sol` / `TokenB.sol`: Test ERC-20 tokens
 
 ## 🔧 Features
 
